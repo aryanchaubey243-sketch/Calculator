@@ -1,8 +1,8 @@
-# Calculator Project 🧮
+# Calculator Project 
 
 A clean, responsive, and easy-to-use calculator application built to handle basic mathematical operations seamlessly. 
 
-## Features ✨
+## Features 
 - **Basic Arithmetic:** Addition, subtraction, multiplication, and division.
 - **Dynamic Display:** Real-time calculation input and output view.
 - **Responsive Design:** Functions flawlessly on both desktop and mobile devices.
@@ -13,7 +13,7 @@ A clean, responsive, and easy-to-use calculator application built to handle basi
 - **CSS3** for styling and layout
 - **JavaScript** for core calculation logic
 
-## Getting Started 🚀
+## Getting Started 
 To run this project locally, follow these simple steps:
 
 ### Prerequisites
@@ -30,13 +30,13 @@ You only need a modern web browser (like Chrome, Firefox, or Safari) to use this
    ```
 3. Open the `index.html` file in your preferred web browser.
 
-## Usage 💡
+## Usage 
 1. Click the number buttons (0-9) to enter your first value.
 2. Choose an operator ($+$, $-$, $\times$, $\div$).
 3. Enter your second value.
 4. Press the equals ($=$) button to see the result.
 5. Use the Clear ($C$) button to reset the calculator at any time.
 
-## Contributing 🤝
+## Contributing 
 Contributions are always welcome! If you have suggestions to improve the UI or add new features, please fork the repository and create a pull request, or open an issue directly.
  
